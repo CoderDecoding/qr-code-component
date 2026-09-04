@@ -21,7 +21,8 @@ body{
     box-shadow: 0px 25px 25px crimson;
 }
 .card-image{
-    width: 10px;
+    width: 100%;
+    height:auto;
     border-radius: 10px;
 
 }
